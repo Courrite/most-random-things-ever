@@ -1,0 +1,19 @@
+{
+    "spec": 1,
+    "name": "Teoran",
+    "previewText": "Teoran is a unique display font with geometric characteristics.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "ggsans-Bold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "ggsans-ExtraBold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "ggsans-Medium": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "ggsans-Normal": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "ggsans-Semibold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "NotoSans-Bold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "NotoSans-Medium": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "NotoSans-Normal": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "NotoSans-Semibold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf",
+        "SourceCodePro-Semibold": "https://github.com/Courrite/most-random-things-ever/raw/main/Teoran/teoran-font-v1-05.ttf"
+    }
+}
